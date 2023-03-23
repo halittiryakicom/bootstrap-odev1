@@ -1,2 +1,2 @@
-# bootsrap-odev1
+# bootstrap-odev1
 https://www.patika.dev/
